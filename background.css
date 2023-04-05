@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    background-color: #000;
+}
+#input-container {
+    border: 10 px solid white;
+    padding: 20px;
+    background-color: #fff;
+}
+.change-cursor{
+    
+    cursor: pointer;
+}

@@ -1,0 +1,27 @@
+h1 {
+    color: brown;
+}
+div {
+    margin: 0;
+    padding: 0;
+    clear: both;
+}
+
+li {
+    list-style-type: none;
+    width: 200px;
+    padding: 20px;
+    background-color: cornflowerblue;
+    margin: 5px;
+    border-radius: 6px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+    text-align: center;
+    color: aliceblue;
+    font-weight: 900;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
